@@ -1,1 +1,841 @@
-
+título,precio,habitaciones,área,ascensor
+"Piso en Sant Jaume, Palma de Mallorca",550.000€,3 hab.,150 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",428.000€,2 hab.,94 m²,True
+"Piso en Pere Garau, Palma de Mallorca",234.000€,4 hab.,102 m²,True
+"Piso en calle de Carmen Martin Gaite, Son Cladera - Son Fuster, Palma de Mallorca",309.000€,3 hab.,97 m²,True
+"Piso en calle d'En Bosc, Sindicat, Palma de Mallorca",365.000€,3 hab.,85 m²,True
+"Piso en avenida de Joan Miró, El Terreno, Palma de Mallorca",1.395.000€,3 hab.,184 m²,True
+"Piso en calle de Joan Alcover, Foners, Palma de Mallorca",1.200.000€,3 hab.,190 m²,True
+"Piso en Jeroni Alemany, Son Cotoner, Palma de Mallorca",239.000€,3 hab.,100 m²,True
+"Piso en paseo Cala Gamba, Coll d'En Rabassa, Palma de Mallorca",549.000€,3 hab.,130 m²,True
+"Piso en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",1.250.000€,2 hab.,186 m²,True
+"Ático en calle dels Cossiers, Secar de la Real, Palma de Mallorca",530.000€,3 hab.,160 m²,True
+"Casa o chalet independiente en calle Mar Menor, Sa Casa Blanca, Palma de Mallorca",950.000€,7 hab.,207 m²,False
+"Piso en calle de Can Baró, Son Armadams, Palma de Mallorca",680.000€,3 hab.,150 m²,True
+"Piso en avenida d'Antoni Maura, La Llotja, Palma de Mallorca",1.380.000€,3 hab.,247 m²,True
+"Piso en calle Avinguda Mèxic, s/n, Nou Llevant, Palma de Mallorca",423.000€,4 hab.,138 m²,True
+"Piso en calle Avinguda Mèxic, s/n, Nou Llevant, Palma de Mallorca",348.500€,3 hab.,117 m²,True
+"Piso en calle Avinguda Mèxic, s/n, Nou Llevant, Palma de Mallorca",305.000€,2 hab.,96 m²,True
+"Ático en Luis Marti, Pere Garau, Palma de Mallorca",277.000€,2 hab.,75 m²,True
+"Piso en avenida del Cid, Son Ferriol, Palma de Mallorca",273.900€,3 hab.,99 m²,True
+"Piso en calle de Vallseca, La Llotja, Palma de Mallorca",234.900€,1 hab.,69 m²,True
+"Dúplex en La Llotja, Palma de Mallorca",875.000€,3 hab.,264 m²,True
+"Piso en Illes Pitiüses, Coll d'En Rabassa, Palma de Mallorca",199.000€,3 hab.,87 m²,True
+"Piso en calle del Llaüt, Ses Cadenes-Arenal, Palma de Mallorca",640.000€,3 hab.,130 m²,True
+"Chalet adosado en calle del Mestre Perosi, El Vivero, Palma de Mallorca",415.000€,4 hab.,130 m²,False
+"Piso en Goethe, El Forti, Palma de Mallorca",234.000€,2 hab.,64 m²,True
+"Casa o chalet independiente en S'Aranjassa - Es Pil.larí, Palma de Mallorca",160.000€,3 hab.,64 m²,False
+"Piso en calle de Francesc Manuel de los Herreros, Pere Garau, Palma de Mallorca",269.000€,3 hab.,102 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",229.500€,1 hab.,50 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",248.000€,2 hab.,60 m²,True
+"Piso en Son Espanyolet, Palma de Mallorca",1.275.000€,3 hab.,100 m²,True
+"Casa o chalet independiente en Son Xigala, Palma de Mallorca",1.085.000€,4 hab.,214 m²,False
+"Piso en avenida de Jaume III, Sant Jaume, Palma de Mallorca",615.000€,2 hab.,93 m²,True
+"Casa o chalet independiente en Diseminado 8504- s'Aranjassa, S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.470.000€,4 hab.,386 m²,False
+"Piso en calle del Vicari Antoni Marimon, Sta Catalina - El Jonquet, Palma de Mallorca",375.000€,2 hab.,85 m²,True
+"Piso en calle del Pingüí, Les Maravelles, Palma de Mallorca",1.250.000€,7 hab.,300 m²,True
+"Chalet adosado en calle de Cotoner, Sta Catalina - El Jonquet, Palma de Mallorca",2.950.000€,4 hab.,262 m²,False
+"Chalet pareado en El Terreno, Palma de Mallorca",2.500.000€,3 hab.,277 m²,False
+"Chalet adosado en Pensament, Son Dureta, Palma de Mallorca",859.000€,5 hab.,200 m²,False
+"Piso en calle de Sant Joaquim, Bons Aires, Palma de Mallorca",245.000€,2 hab.,91 m²,True
+"Piso en calle CL Vallgornera 1 Urb. Son Gual II Parc.4a Palma (i, Son Gual, Palma de Mallorca",530.000€,4 hab.,136 m²,True
+"Estudio en calle de la Salut, 3, Son Armadams, Palma de Mallorca",650.000€,134 m²,Bajo exterior sin ascensor,True
+"Piso en calle Nuredduna, Pere Garau, Palma de Mallorca",671.000€,2 hab.,80 m²,True
+"Piso en calle de Ramon Muntaner, Bons Aires, Palma de Mallorca",320.000€,4 hab.,118 m²,True
+"Chalet pareado en calle de l'Almirall Gravina, 9, Son Armadams, Palma de Mallorca",2.000.000€,5 hab.,493 m²,False
+"Ático en avenida de Gabriel Roca, Paseo Marítimo, Palma de Mallorca",1.300.000€,3 hab.,134 m²,True
+"Piso en calle del Lledoner, Rafal Vell, Palma de Mallorca",185.000€,3 hab.,135 m²,True
+"Piso en calle General Riera, Cas Capiscol, Palma de Mallorca",356.000€,3 hab.,160 m²,True
+"Piso en calle de la Quartereta, Sindicat, Palma de Mallorca",415.000€,2 hab.,70 m²,True
+"Chalet adosado en calle de Triana, Son Espanyolet, Palma de Mallorca",1.950.000€,4 hab.,170 m²,False
+"Piso en calle Patronat Obrer, Pere Garau, Palma de Mallorca",399.000€,3 hab.,125 m²,True
+"Piso en Antoni Ribas, Foners, Palma de Mallorca",215.000€,2 hab.,70 m²,True
+"Finca rústica en camino Agustí, Establiments - Son Sardina, Palma de Mallorca",1.100.000€,5 hab.,539 m²,False
+"Casa o chalet independiente en calle Maria Antònia Salvà, 53, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",380.000€,6 hab.,470 m²,False
+"Casa o chalet independiente en paseo Cala Gamba, Coll d'En Rabassa, Palma de Mallorca",2.700.000€,6 hab.,337 m²,False
+"Casa o chalet independiente en calle de Veracruz, Les Maravelles, Palma de Mallorca",2.290.000€,5 hab.,255 m²,False
+"Piso en calle de Sor Francesca Veronica Bassa, La Bonanova - Porto Pi, Palma de Mallorca",925.000€,2 hab.,138 m²,True
+"Ático en Joan Muntaner I Bujosa, Son Cotoner, Palma de Mallorca",225.000€,2 hab.,202 m²,True
+"Chalet en calle de Sant Marçal, Portixol-Molinar, Palma de Mallorca",1.600.000€,3 hab.,280 m²,False
+"Piso en calle Nuredduna, Pere Garau, Palma de Mallorca",477.000€,2 hab.,85 m²,True
+"Piso en calle de Versalles, La Bonanova - Porto Pi, Palma de Mallorca",1.590.000€,4 hab.,320 m²,True
+"Dúplex en calle del General Ramon Despuig, Son Vida, Palma de Mallorca",740.000€,3 hab.,128 m²,True
+"Chalet en calle del Rector Vives, Genova, Palma de Mallorca",1.900.000€,8 hab.,590 m²,False
+"Piso en avenida d'Antoni Maura, La Llotja, Palma de Mallorca",595.000€,3 hab.,110 m²,True
+"Piso en calle del Bisbe Maura, Marqués de la Fontsanta, Palma de Mallorca",265.000€,2 hab.,77 m²,True
+"Piso en calle Llinàs, Paseo Marítimo, Palma de Mallorca",630.000€,4 hab.,157 m²,True
+"Piso en avenida de l'Argentina, Camp d'En Serralta , Palma de Mallorca",583.500€,3 hab.,106 m²,True
+"Piso en calle de Versalles, La Bonanova - Porto Pi, Palma de Mallorca",1.590.000€,4 hab.,320 m²,True
+"Piso en calle de Blanquerna, Bons Aires, Palma de Mallorca",440.000€,3 hab.,140 m²,True
+"Casa o chalet independiente en calle de Miquel Pellisa, Les Maravelles, Palma de Mallorca",770.000€,4 hab.,258 m²,False
+"Estudio en avenida de Joan Miró, El Terreno, Palma de Mallorca",1.500.000€,307 m²,Planta 1ª exterior sin ascensor,True
+"Piso en calle de Josep Maria Palau I Camps, Portixol-Molinar, Palma de Mallorca",440.000€,2 hab.,71 m²,True
+"Piso en camino de Gènova, La Teulera, Palma de Mallorca",800.000€,3 hab.,136 m²,True
+"Piso en avenida de Jaume III, Sant Jaume, Palma de Mallorca",615.000€,2 hab.,100 m²,True
+"Casa o chalet independiente en camino del Redol, Establiments - Son Sardina, Palma de Mallorca",1.090.000€,4 hab.,200 m²,False
+"Piso en calle de Ramon y Cajal, Camp d'En Serralta , Palma de Mallorca",462.000€,4 hab.,173 m²,True
+"Ático en calle de Can Danús, Sant Nicolau, Palma de Mallorca",1.790.000€,4 hab.,250 m²,True
+"Piso en calle d'Alfons el Magnànim, L'Olivera - Amanecer, Palma de Mallorca",320.000€,2 hab.,84 m²,True
+"Casa o chalet independiente en camino de Son Espases, Establiments - Son Sardina, Palma de Mallorca",795.000€,6 hab.,311 m²,False
+"Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca",710.000€,3 hab.,144 m²,True
+"Piso en calle dels Donants de Sang, L'Olivera - Amanecer, Palma de Mallorca",975.000€,4 hab.,300 m²,True
+"Piso en calle de Lope de Vega, Camp d'En Serralta , Palma de Mallorca",699.900€,3 hab.,154 m²,True
+"Casa o chalet independiente en Diseminado 4419- Son Sardina, Establiments - Son Sardina, Palma de Mallorca",2.175.000€,4 hab.,450 m²,False
+"Piso en calle Patronat Obrer, Pere Garau, Palma de Mallorca",290.000€,3 hab.,105 m²,True
+"Piso en calle de Caro, Sta Catalina - El Jonquet, Palma de Mallorca",420.000€,3 hab.,118 m²,True
+"Piso en calle del Socors, Sindicat, Palma de Mallorca",349.000€,2 hab.,78 m²,True
+"Piso en calle del Llaüt, Ses Cadenes-Arenal, Palma de Mallorca",650.000€,2 hab.,180 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",1.075.000€,3 hab.,268 m²,False
+"Piso en calle Bartolomé Torres, Pere Garau, Palma de Mallorca",166.000€,3 hab.,90 m²,True
+"Ático en calle del Bisbe Maura, Marqués de la Fontsanta, Palma de Mallorca",265.000€,2 hab.,80 m²,True
+"Piso en calle Manacor, Foners, Palma de Mallorca",458.000€,3 hab.,130 m²,True
+"Casa o chalet independiente en calle de Picornell, Hostalets - Son Fortesa Sud, Palma de Mallorca",280.000€,4 hab.,150 m²,False
+"Piso en calle Bartolomé Torres, Pere Garau, Palma de Mallorca",166.000€,3 hab.,90 m²,True
+"Piso en calle d'Eusebi Estada, Son Oliva, Palma de Mallorca",206.000€,3 hab.,104 m²,True
+"Ático en calle Manacor, La Soledat, Palma de Mallorca",219.000€,4 hab.,115 m²,True
+"Piso en calle Manacor, Foners, Palma de Mallorca",458.000€,3 hab.,130 m²,True
+"Piso en vasco de gama, Son Armadams, Palma de Mallorca",398.000€,4 hab.,135 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",1.075.000€,3 hab.,268 m²,False
+"Piso en calle d'Andrea Doria, Son Armadams, Palma de Mallorca",475.000€,4 hab.,135 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",550.000€,4 hab.,130 m²,True
+"Chalet en Puntiró, Palma de Mallorca",2.200.000€,5 hab.,690 m²,False
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",307.900€,3 hab.,103 m²,True
+"Chalet adosado en Son Ferriol, Palma de Mallorca",380.000€,3 hab.,112 m²,False
+"Piso en Les Maravelles, Palma de Mallorca",650.000€,2 hab.,80 m²,True
+"Piso en calle de Cerdà, Sta Catalina - El Jonquet, Palma de Mallorca",379.000€,2 hab.,90 m²,True
+"Ático en La Teulera, Palma de Mallorca",880.000€,3 hab.,147 m²,True
+"Piso en Son Vida, Palma de Mallorca",1.750.000€,5 hab.,267 m²,True
+"Casa o chalet independiente en Genova, Palma de Mallorca",4.900.000€,4 hab.,515 m²,False
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",1.190.000€,3 hab.,205 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",925.000€,2 hab.,172 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",445.000€,3 hab.,98 m²,True
+"Chalet adosado en Can Morro, La Bonanova - Porto Pi, Palma de Mallorca",1.300.000€,4 hab.,211 m²,False
+"Chalet adosado en Sant Agustí, Palma de Mallorca",768.000€,4 hab.,280 m²,False
+"Dúplex en Republica dominicana, Son Espanyolet, Palma de Mallorca",359.000€,4 hab.,150 m²,True
+"Chalet en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.390.000€,4 hab.,412 m²,False
+"Chalet en Establiments - Son Sardina, Palma de Mallorca",1.820.000€,6 hab.,540 m²,False
+"Piso en Costa d'en Brossa, Sant Nicolau, Palma de Mallorca",595.000€,3 hab.,120 m²,True
+"Piso en calle de la Fàbrica, Sta Catalina - El Jonquet, Palma de Mallorca",1.950.000€,3 hab.,127 m²,True
+"Piso en El Terreno, Palma de Mallorca",799.000€,4 hab.,135 m²,True
+"Casa o chalet independiente en Puntiró, Palma de Mallorca",2.200.000€,6 hab.,690 m²,False
+"Ático en avenida argenitna, Camp d'En Serralta , Palma de Mallorca",515.000€,3 hab.,136 m²,True
+"Piso en calle d'Eusebi Estada, Plaça de Toros, Palma de Mallorca",278.000€,3 hab.,107 m²,True
+"Piso en Son Xigala, Palma de Mallorca",960.000€,4 hab.,162 m²,True
+"Piso en Coll d'En Rabassa, Palma de Mallorca",395.000€,3 hab.,110 m²,True
+"Chalet pareado en Les Maravelles, Palma de Mallorca",460.000€,3 hab.,102 m²,False
+"Piso en calle d'Aragó, Pere Garau, Palma de Mallorca",359.000€,3 hab.,96 m²,True
+"Ático en avenida argenitna, Camp d'En Serralta , Palma de Mallorca",515.000€,3 hab.,136 m²,True
+"Casa o chalet independiente en Zona son Orlandis d'Amunt, Son Ferriol, Palma de Mallorca",2.900.000€,4 hab.,1.200 m²,False
+"Piso en riera De La, Sant Nicolau, Palma de Mallorca",480.000€,3 hab.,110 m²,True
+"Piso en calle de Sant Lluc, Sa Indiotería - Son Castelló, Palma de Mallorca",359.900€,3 hab.,120 m²,True
+"Chalet adosado en calle de la Civada, Son Ferriol, Palma de Mallorca",488.000€,3 hab.,229 m²,False
+"Piso en avenida de Gabriel Alomar, Foners, Palma de Mallorca",549.900€,4 hab.,168 m²,True
+"Piso en calle de Can Fonoll, Coll d'En Rabassa, Palma de Mallorca",430.000€,3 hab.,118 m²,True
+"Piso en calle de Versalles, La Bonanova - Porto Pi, Palma de Mallorca",1.590.000€,4 hab.,320 m²,True
+"Estudio en avenida de Joan Miró, El Terreno, Palma de Mallorca",550.000€,137 m²,Planta 1ª exterior sin ascensor,True
+"Casa o chalet independiente en calle del Pou Comú, Establiments - Son Sardina, Palma de Mallorca",735.000€,3 hab.,178 m²,False
+"Casa o chalet independiente en calle de Ferran Alzamora, Ses Cadenes-Arenal, Palma de Mallorca",2.500.000€,1.725 m²,NA,False
+"Piso en calle dels Set Cantons, Cort, Palma de Mallorca",395.000€,4 hab.,125 m²,True
+"Chalet adosado en calle de l'Almirall Bonifaz, Son Armadams, Palma de Mallorca",990.000€,3 hab.,256 m²,False
+"Piso en Foners, Palma de Mallorca",360.000€,5 hab.,183 m²,True
+"Piso en Son Cotoner, Palma de Mallorca",1.600.000€,2 hab.,142 m²,True
+"Dúplex en calle de Sant Bartomeu, Sant Nicolau, Palma de Mallorca",3.400.000€,4 hab.,462 m²,True
+"Casa o chalet independiente en calle de Son Puig, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.390.000€,4 hab.,411 m²,False
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",1.595.000€,4 hab.,357 m²,True
+"Casa o chalet independiente en S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.470.000€,4 hab.,386 m²,False
+"Piso en Son Dameto, Palma de Mallorca",399.000€,3 hab.,98 m²,True
+"Piso en calle de la Fàbrica, Sta Catalina - El Jonquet, Palma de Mallorca",320.000€,4 hab.,127 m²,True
+"Piso en calle del Polvorí, El Terreno, Palma de Mallorca",270.000€,1 hab.,74 m²,True
+"Piso en calle de Bartomeu Rosselló-Porcel, Son Armadams, Palma de Mallorca",469.000€,4 hab.,132 m²,True
+"Piso en calle de Marbella, Les Maravelles, Palma de Mallorca",380.000€,2 hab.,80 m²,True
+"Piso en calle de Joan Ripoll i Trobat, Son Dameto, Palma de Mallorca",380.000€,2 hab.,115 m²,True
+"Piso en calle dels Apuntadors, La Llotja, Palma de Mallorca",266.000€,1 hab.,60 m²,True
+"Piso en calle del Busqueret, Son Xigala, Palma de Mallorca",332.000€,2 hab.,108 m²,True
+"Piso en calle de Bartomeu Rosselló-Porcel, Son Armadams, Palma de Mallorca",469.000€,4 hab.,132 m²,True
+"Piso en calle del Polvorí, El Terreno, Palma de Mallorca",270.000€,1 hab.,74 m²,True
+"Piso en calle de Joan Ripoll i Trobat, Son Dameto, Palma de Mallorca",380.000€,2 hab.,115 m²,True
+"Ático en calle de Francesc Martí i Móra, Son Cotoner, Palma de Mallorca",445.000€,3 hab.,168 m²,True
+"Ático en Sant Nicolau, Palma de Mallorca",4.900.000€,4 hab.,294 m²,True
+"Piso en Sant Nicolau, Palma de Mallorca",1.790.000€,4 hab.,276 m²,True
+"Chalet pareado en La Teulera, Palma de Mallorca",850.000€,5 hab.,139 m²,False
+"Piso en Plaça de Toros, Palma de Mallorca",225.000€,3 hab.,96 m²,True
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",310.000€,3 hab.,99 m²,True
+"Chalet en Diseminado 4112- Secar de la Real, Secar de la Real, Palma de Mallorca",5.750.000€,15 hab.,3.000 m²,False
+"Casa de pueblo en Establiments - Son Sardina, Palma de Mallorca",620.000€,4 hab.,200 m²,False
+"Piso en avenida de Jaume III, La Llotja, Palma de Mallorca",535.000€,3 hab.,130 m²,True
+"Ático en calle de la República Dominicana, Son Espanyolet, Palma de Mallorca",1.150.000€,4 hab.,153 m²,True
+"Piso en calle de Tomàs Forteza, Foners, Palma de Mallorca",360.000€,3 hab.,145 m²,True
+"Casa o chalet independiente en La Bonanova - Porto Pi, Palma de Mallorca",1.760.000€,4 hab.,327 m²,False
+"Piso en avenida Gran i General Consell, Arxiduc, Palma de Mallorca",1.390.000€,4 hab.,371 m²,True
+"Chalet en Portixol-Molinar, Palma de Mallorca",1.990.000€,3 hab.,311 m²,False
+"Piso en avenida Joan Miró, Cala Major, Palma de Mallorca",1.069.000€,3 hab.,150 m²,True
+"Chalet pareado en Son Dureta, Palma de Mallorca",1.190.000€,4 hab.,215 m²,False
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",795.000€,2 hab.,180 m²,True
+"Piso en Sant Nicolau, Palma de Mallorca",990.000€,2 hab.,115 m²,True
+"Ático en Sant Jaume, Palma de Mallorca",1.400.000€,3 hab.,179 m²,False
+"Ático en Pere Garau, Palma de Mallorca",277.000€,2 hab.,74 m²,True
+"Ático en Sant Nicolau, Palma de Mallorca",595.000€,3 hab.,100 m²,False
+"Chalet en calle del Puig de Pollença, La Bonanova - Porto Pi, Palma de Mallorca",1.760.000€,4 hab.,390 m²,False
+"Ático en calle Can Savella, Cort, Palma de Mallorca",1.585.000€,3 hab.,239 m²,True
+"Piso en Coll d'En Rabassa, Palma de Mallorca",980.000€,3 hab.,147 m²,True
+"Piso en Sa Indiotería - Son Castelló, Palma de Mallorca",198.000€,4 hab.,101 m²,True
+"Piso en Sa Indiotería - Son Castelló, Palma de Mallorca",198.000€,4 hab.,101 m²,True
+"Piso en Camp d'En Serralta , Palma de Mallorca",325.000€,4 hab.,103 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",2.780.000€,6 hab.,350 m²,False
+"Piso en Son Xigala, Palma de Mallorca",370.000€,3 hab.,90 m²,True
+"Finca rústica en Sa Casa Blanca, Palma de Mallorca",470.000€,4 hab.,700 m²,False
+"Piso en Son Armadams, Palma de Mallorca",423.000€,3 hab.,128 m²,True
+"Piso en Pere Garau, Palma de Mallorca",380.000€,4 hab.,230 m²,True
+"Chalet pareado en Son Cladera - Son Fuster, Palma de Mallorca",450.000€,4 hab.,143 m²,False
+"Casa o chalet independiente en Ses Cadenes-Arenal, Palma de Mallorca",550.000€,3 hab.,174 m²,False
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",290.000€,2 hab.,85 m²,True
+"Piso en calle de Despuig, Sta Catalina - El Jonquet, Palma de Mallorca",330.000€,2 hab.,98 m²,True
+"Ático en Son Espanyolet, Palma de Mallorca",1.150.000€,4 hab.,242 m²,True
+"Ático en calle de Georges Bernanos, El Terreno, Palma de Mallorca",580.000€,2 hab.,103 m²,True
+"Piso en Les Maravelles, Palma de Mallorca",465.000€,3 hab.,120 m²,True
+"Piso en calle Catalunya, Camp d'En Serralta , Palma de Mallorca",780.000€,3 hab.,164 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",725.000€,4 hab.,231 m²,True
+"Piso en El Terreno, Palma de Mallorca",445.000€,3 hab.,149 m²,True
+"Finca rústica en Son Ferriol, Palma de Mallorca",450.000€,3 hab.,164 m²,False
+"Piso en Son Armadams, Palma de Mallorca",490.000€,3 hab.,125 m²,True
+"Dúplex en Son Dameto, Palma de Mallorca",362.000€,3 hab.,125 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",11.000.000€,15 hab.,7.593 m²,False
+"Piso en Foners, Palma de Mallorca",360.000€,4 hab.,135 m²,True
+"Piso en Sant Jaume, Palma de Mallorca",775.000€,4 hab.,161 m²,True
+"Ático en Portixol-Molinar, Palma de Mallorca",845.000€,4 hab.,184 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",790.000€,4 hab.,201 m²,True
+"Casa o chalet independiente en calle de la Singladura, Can Pastilla, Palma de Mallorca",1.800.000€,5 hab.,410 m²,False
+"Piso en calle de la Mar Aràbiga, Les Maravelles, Palma de Mallorca",298.500€,3 hab.,120 m²,True
+"Piso en Marqués de la Fontsanta, Palma de Mallorca",298.000€,4 hab.,123 m²,True
+"Piso en Son Ferriol, Palma de Mallorca",276.000€,3 hab.,82 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",1.499.900€,3 hab.,380 m²,True
+"Casa o chalet independiente en Son Dureta, Palma de Mallorca",2.995.000€,4 hab.,476 m²,False
+"Ático en Sant Jaume, Palma de Mallorca",1.250.000€,5 hab.,227 m²,True
+"Piso en Sant Jaume, Palma de Mallorca",1.285.000€,4 hab.,203 m²,True
+"Ático en La Missio - Mercat, Palma de Mallorca",1.495.000€,2 hab.,174 m²,True
+"Ático en Zona Colegios - Son Moix, Palma de Mallorca",1.200.000€,4 hab.,469 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",795.000€,4 hab.,190 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",520.000€,2 hab.,115 m²,True
+"Piso en Camp d'En Serralta , Palma de Mallorca",465.000€,3 hab.,125 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",685.000€,4 hab.,176 m²,True
+"Ático en Foners, Palma de Mallorca",1.200.000€,3 hab.,280 m²,True
+"Ático en Sant Agustí, Palma de Mallorca",1.695.000€,4 hab.,420 m²,True
+"Ático en Can Pastilla, Palma de Mallorca",980.000€,2 hab.,103 m²,True
+"Casa o chalet independiente en La Seu, Palma de Mallorca",13.500.000€,8 hab.,886 m²,False
+"Piso en Marqués de la Fontsanta, Palma de Mallorca",450.000€,3 hab.,110 m²,True
+"Piso en Foners, Palma de Mallorca",235.000€,4 hab.,114 m²,True
+"Piso en La Soledat, Palma de Mallorca",165.000€,3 hab.,96 m²,True
+"Casa o chalet independiente en S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.290.000€,6 hab.,612 m²,False
+"Piso en Marqués de la Fontsanta, Palma de Mallorca",360.000€,1 hab.,79 m²,True
+"Piso en Plaça de Toros, Palma de Mallorca",369.000€,4 hab.,159 m²,True
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",235.000€,2 hab.,65 m²,True
+"Piso en Son Gotleu, Palma de Mallorca",135.000€,4 hab.,125 m²,True
+"Casa o chalet independiente en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.390.000€,4 hab.,411 m²,False
+"Casa o chalet independiente en El Terreno, Palma de Mallorca",1.690.000€,3 hab.,210 m²,False
+"Piso en Sindicat, Palma de Mallorca",350.000€,2 hab.,62 m²,True
+"Piso en Son Espanyolet, Palma de Mallorca",499.000€,1 hab.,50 m²,True
+"Piso en Can Pastilla, Palma de Mallorca",470.000€,3 hab.,101 m²,True
+"Piso en calle Sureda y calle Regal de Palma, s/n, La Soledat, Palma de Mallorca",275.000€,2 hab.,93 m²,True
+"Casa o chalet independiente en Son Vida, Palma de Mallorca",4.250.000€,5 hab.,537 m²,False
+"Chalet adosado en Secar de la Real, Palma de Mallorca",435.000€,4 hab.,128 m²,False
+"Dúplex en Estanc, La Llotja, Palma de Mallorca",875.000€,3 hab.,265 m²,True
+"Dúplex en Estanc, La Llotja, Palma de Mallorca",875.000€,3 hab.,265 m²,True
+"Piso en Marbella, 20, Les Maravelles, Palma de Mallorca",360.000€,2 hab.,74 m²,True
+"Piso en calle Nicolau de Pacs, Pere Garau, Palma de Mallorca",265.000€,3 hab.,88 m²,True
+"Ático en calle de la Reina Maria Cristina, Plaça de Toros, Palma de Mallorca",490.000€,3 hab.,110 m²,True
+"Piso en calle Llevant, 96, Nou Llevant, Palma de Mallorca",300.000€,2 hab.,97 m²,True
+"Chalet en Son Vida, Palma de Mallorca",4.500.000€,4 hab.,600 m²,False
+"Piso en calle de Monterrey, Sta Catalina - El Jonquet, Palma de Mallorca",535.000€,3 hab.,100 m²,True
+"Piso en calle Llevant, 96, Nou Llevant, Palma de Mallorca",430.000€,3 hab.,125 m²,True
+"Piso en calle Llevant, 96, Nou Llevant, Palma de Mallorca",455.000€,3 hab.,137 m²,True
+"Dúplex en calle dels Oms, 15, La Missio - Mercat, Palma de Mallorca",1.775.000€,3 hab.,191 m²,True
+"Piso en calle de Versalles, La Bonanova - Porto Pi, Palma de Mallorca",1.575.000€,5 hab.,340 m²,True
+"Piso en avenida de Gabriel Alomar, Sindicat, Palma de Mallorca",440.000€,4 hab.,147 m²,True
+"Piso en Camp d'En Serralta , Palma de Mallorca",750.000€,3 hab.,137 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",554.000€,4 hab.,182 m²,True
+"Casa o chalet independiente en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.698.000€,6 hab.,550 m²,False
+"Ático en Foners, Palma de Mallorca",499.000€,3 hab.,147 m²,True
+"Chalet adosado en calle de Son Pontivic, 15, Foners, Palma de Mallorca",529.000€,4 hab.,388 m²,False
+"Chalet adosado en calle del Pensament, 10, Son Dureta, Palma de Mallorca",830.000€,5 hab.,200 m²,False
+"Ático en calle de Sant Llorenç, La Llotja, Palma de Mallorca",850.000€,2 hab.,146 m²,True
+"Dúplex en La Llotja, Palma de Mallorca",885.000€,3 hab.,265 m²,True
+"Piso en Paseo Marítimo, Palma de Mallorca",1.300.000€,6 hab.,205 m²,True
+"Ático en calle de l'Arxiduc Lluís Salvador, Plaça de Toros, Palma de Mallorca",315.000€,4 hab.,135 m²,True
+"Dúplex en calle de Ramon Servera Moya, El Terreno, Palma de Mallorca",374.990€,3 hab.,147 m²,True
+"Casa o chalet independiente en Son Gual, Palma de Mallorca",1.700.000€,5 hab.,241 m²,False
+"Dúplex en calle Impremta, 1, Sant Nicolau, Palma de Mallorca",2.300.000€,2 hab.,163 m²,True
+"Piso en calle dels Oms, La Missio - Mercat, Palma de Mallorca",570.000€,2 hab.,95 m²,True
+"Piso en calle de Margaluz, Sant Agustí, Palma de Mallorca",450.000€,2 hab.,71 m²,True
+"Ático en calle de Margaluz, Sant Agustí, Palma de Mallorca",450.000€,2 hab.,72 m²,True
+"Casa o chalet independiente en Robert Graves, El Terreno, Palma de Mallorca",1.800.000€,3 hab.,245 m²,False
+"Piso en calle dels Pins, 17, Can Pastilla, Palma de Mallorca",470.000€,3 hab.,119 m²,True
+"Piso en Monti-Sión, Palma de Mallorca",510.000€,2 hab.,124 m²,True
+"Piso en Les Maravelles, Palma de Mallorca",420.000€,3 hab.,113 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",740.000€,7 hab.,192 m²,True
+"Ático en La Missio - Mercat, Palma de Mallorca",875.000€,2 hab.,169 m²,True
+"Piso en Marqués de la Fontsanta, Palma de Mallorca",445.000€,5 hab.,232 m²,True
+"Piso en calle Marqués de Fontsanta, 22, Marqués de la Fontsanta, Palma de Mallorca",670.000€,3 hab.,121 m²,True
+"Piso en Genova, Palma de Mallorca",367.000€,4 hab.,120 m²,True
+"Piso en calle Joan Maragall, Portixol-Molinar, Palma de Mallorca",1.250.000€,3 hab.,240 m²,True
+"Piso en El Vivero, Palma de Mallorca",195.000€,4 hab.,106 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",750.000€,3 hab.,134 m²,True
+"Piso en camino dels Reis, 100, Son Vida, Palma de Mallorca",390.000€,3 hab.,99 m²,True
+"Piso en avenida de Gabriel Roca, El Terreno, Palma de Mallorca",495.000€,4 hab.,109 m²,True
+"Piso en Sant Agustí, Palma de Mallorca",645.000€,1 hab.,40 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",733.000€,3 hab.,222 m²,False
+"Piso en calle del Puig de Pollença, La Bonanova - Porto Pi, Palma de Mallorca",790.000€,4 hab.,201 m²,True
+"Piso en avenida de Gabriel Alomar, Foners, Palma de Mallorca",515.000€,4 hab.,168 m²,True
+"Piso en Sant Jaume, Palma de Mallorca",590.000€,6 hab.,183 m²,True
+"Piso en calle de Joaquim Verdaguer, Ses Cadenes-Arenal, Palma de Mallorca",232.000€,3 hab.,92 m²,True
+"Piso en calle Joan Monserrat Parets, Coll d'En Rabassa, Palma de Mallorca",245.000€,1 hab.,62 m²,True
+"Piso en sant rafael, La Soledat, Palma de Mallorca",219.900€,2 hab.,101 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",875.000€,4 hab.,200 m²,True
+"Piso en Bons Aires, Palma de Mallorca",340.000€,2 hab.,103 m²,True
+"Piso en calle de la Fàbrica, Sta Catalina - El Jonquet, Palma de Mallorca",550.000€,1 hab.,80 m²,True
+"Piso en avenida de Gabriel Alomar, Sindicat, Palma de Mallorca",375.000€,5 hab.,129 m²,True
+"Piso en avenida del Gran i General Consell, La Missio - Mercat, Palma de Mallorca",750.000€,4 hab.,150 m²,True
+"Ático en plaza d'Espanya, La Missio - Mercat, Palma de Mallorca",1.495.000€,2 hab.,120 m²,True
+"Piso en calle de Robert Graves, 30, El Terreno, Palma de Mallorca",325.000€,3 hab.,134 m²,True
+"Piso en Miquel Forteza i Pinya, Coll d'En Rabassa, Palma de Mallorca",340.000€,3 hab.,108 m²,True
+"Piso en Pere Garau, Palma de Mallorca",379.900€,5 hab.,185 m²,True
+"Piso en calle de Caro, Sta Catalina - El Jonquet, Palma de Mallorca",420.000€,3 hab.,118 m²,True
+"Piso en calle de Caro, Sta Catalina - El Jonquet, Palma de Mallorca",470.000€,2 hab.,118 m²,True
+"Piso en calle de Joan Crespí, Sta Catalina - El Jonquet, Palma de Mallorca",398.000€,3 hab.,81 m²,True
+"Piso en Portixol, Portixol-Molinar, Palma de Mallorca",3.600.000€,4 hab.,228 m²,True
+"Piso en calle de Lope de Vega, Camp d'En Serralta , Palma de Mallorca",269.000€,1 hab.,60 m²,True
+"Piso en calle de Joan Crespí, Sta Catalina - El Jonquet, Palma de Mallorca",430.000€,2 hab.,83 m²,True
+"Piso en calle Torcuato Luca Tena, Pere Garau, Palma de Mallorca",409.000€,3 hab.,140 m²,True
+"Piso en calle de Caro, Sta Catalina - El Jonquet, Palma de Mallorca",420.000€,3 hab.,118 m²,True
+"Piso en calle Frederico Garcia Lorca, Paseo Marítimo, Palma de Mallorca",327.000€,1 hab.,90 m²,True
+"Finca rústica en camino Agustí, Sindicat, Palma de Mallorca",1.100.000€,5 hab.,539 m²,False
+"Dúplex en Lleo XIII, Son Ferriol, Palma de Mallorca",320.000€,3 hab.,90 m²,True
+"Chalet en Son Gual-A, Son Gual, Palma de Mallorca",470.000€,4 hab.,348 m²,False
+"Piso en Paseo Marítimo, Palma de Mallorca",1.200.000€,4 hab.,217 m²,True
+"Casa o chalet independiente en calle de Mortitx, Son Vida, Palma de Mallorca",3.499.000€,6 hab.,440 m²,False
+"Piso en Goethe, El Forti, Palma de Mallorca",234.000€,2 hab.,64 m²,True
+"Piso en josep darder metge, Son Canals, Palma de Mallorca",279.000€,3 hab.,105 m²,True
+"Finca rústica en Diseminado, Son Ferriol, Palma de Mallorca",385.000€,4 hab.,257 m²,False
+"Dúplex en calle Estanc, La Llotja, Palma de Mallorca",875.000€,3 hab.,265 m²,True
+"Piso en Sant Agustí, Palma de Mallorca",289.000€,3 hab.,102 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",1.270.000€,3 hab.,102 m²,True
+"Chalet adosado en Portixol-Molinar, Palma de Mallorca",1.990.000€,5 hab.,393 m²,False
+"Ático en Sant Jaume, Palma de Mallorca",1.300.000€,3 hab.,112 m²,True
+"Piso en Salvia, 1, Son Dureta, Palma de Mallorca",790.000€,3 hab.,134 m²,True
+"Casa o chalet independiente en S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.470.000€,4 hab.,384 m²,False
+"Piso en Portixol-Molinar, Palma de Mallorca",1.270.000€,3 hab.,102 m²,True
+"Ático en Can Pastilla, Palma de Mallorca",980.000€,2 hab.,85 m²,True
+"Piso en Son Ferriol, Palma de Mallorca",230.000€,2 hab.,75 m²,True
+"Piso en Son Gual, Palma de Mallorca",380.000€,3 hab.,116 m²,True
+"Casa o chalet independiente en Son Gual, Palma de Mallorca",1.700.000€,5 hab.,241 m²,False
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",795.000€,4 hab.,177 m²,True
+"Piso en avenida d'Alemanya, La Missio - Mercat, Palma de Mallorca",385.000€,4 hab.,130 m²,True
+"Piso en calle del Taronger, Rafal Vell, Palma de Mallorca",255.000€,2 hab.,70 m²,True
+"Piso en calle de Miquel Àngel Riera, Plaça de Toros, Palma de Mallorca",288.000€,3 hab.,121 m²,True
+"Piso en avenida Gabriel Roca, La Bonanova - Porto Pi, Palma de Mallorca",435.000€,2 hab.,78 m²,True
+"Piso en calle de Joaquim Verdaguer, 20, Ses Cadenes-Arenal, Palma de Mallorca",184.990€,3 hab.,86 m²,True
+"Piso en San Lluc, Sa Indiotería - Son Castelló, Palma de Mallorca",359.000€,3 hab.,120 m²,True
+"Piso en calle de Rivadavia, El Vivero, Palma de Mallorca",285.000€,2 hab.,101 m²,True
+"Piso en calle Bartomeu Torres, Pere Garau, Palma de Mallorca",208.000€,4 hab.,105 m²,True
+"Piso en calle de Francesc Martí i Móra, El Forti, Palma de Mallorca",325.000€,4 hab.,125 m²,True
+"Piso en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",945.000€,4 hab.,145 m²,True
+"Ático en calle de Castellitx, Son Gual, Palma de Mallorca",505.000€,3 hab.,210 m²,True
+"Piso en calle del Mestre Falla, El Vivero, Palma de Mallorca",235.000€,3 hab.,100 m²,True
+"Ático en L'illa de Corfú, Coll d'En Rabassa, Palma de Mallorca",620.000€,3 hab.,192 m²,True
+"Chalet en calle de Son Peretó, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",490.000€,3 hab.,200 m²,False
+"Piso en calle de Sant Vicenç de Paül, Cas Capiscol, Palma de Mallorca",245.000€,4 hab.,112 m²,True
+"Piso en calle del Roser, L'Olivera - Amanecer, Palma de Mallorca",265.000€,3 hab.,80 m²,True
+"Ático en Son Cotoner, Palma de Mallorca",480.000€,3 hab.,155 m²,True
+"Ático en calle Aragón, s/n, Rafal Vell, Palma de Mallorca",300.000€,3 hab.,132 m²,True
+"Casa o chalet independiente en calle de Bellver, 2, El Terreno, Palma de Mallorca",6.500.000€,6 hab.,190 m²,False
+"Piso en Son Dureta, Palma de Mallorca",490.000€,3 hab.,102 m²,True
+"Piso en calle de la Porta de Santa Margalida, 1, Sa Indiotería - Son Castelló, Palma de Mallorca",180.000€,3 hab.,85 m²,True
+"Piso en Sindicat, Palma de Mallorca",309.000€,4 hab.,87 m²,True
+"Piso en Carmen Martin Gaite, Son Cladera - Son Fuster, Palma de Mallorca",265.000€,3 hab.,94 m²,True
+"Piso en calle de Pau Piferrer, El Forti, Palma de Mallorca",320.000€,3 hab.,113 m²,True
+"Piso en calle de la Infanta Pau, Foners, Palma de Mallorca",288.000€,3 hab.,84 m²,True
+"Piso en calle dels Àngels, Sant Jaume, Palma de Mallorca",450.000€,4 hab.,170 m²,True
+"Ático en Luis Martí, Pere Garau, Palma de Mallorca",277.000€,2 hab.,74 m²,True
+"Piso en Tokio, Ses Cadenes-Arenal, Palma de Mallorca",182.000€,2 hab.,63 m²,True
+"Chalet adosado en avenida del cid, Son Ferriol, Palma de Mallorca",395.000€,2 hab.,160 m²,False
+"Piso en carretera de Manacor, Pere Garau, Palma de Mallorca",210.000€,3 hab.,84 m²,True
+"Casa o chalet independiente en Son Gual, Palma de Mallorca",794.900€,4 hab.,300 m²,False
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",497.000€,3 hab.,100 m²,True
+"Casa o chalet independiente en Establiments - Son Sardina, Palma de Mallorca",420.000€,4 hab.,130 m²,False
+"Casa o chalet independiente en Son Espanyolet, Palma de Mallorca",499.000€,3 hab.,137 m²,False
+"Casa o chalet independiente en Sant Agustí, Palma de Mallorca",3.550.000€,8 hab.,610 m²,False
+"Dúplex en Ses Cadenes-Arenal, Palma de Mallorca",1.595.000€,3 hab.,325 m²,True
+"Piso en calle de la Reina Maria Cristina, Plaça de Toros, Palma de Mallorca",359.000€,3 hab.,131 m²,True
+"Ático en calle del Baró de Pinopar, 14, La Missio - Mercat, Palma de Mallorca",1.295.000€,3 hab.,135 m²,True
+"Piso en calle del Baladre, 60, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",321.000€,4 hab.,99 m²,True
+"Casa o chalet independiente en calle Guatemala, Son Espanyolet, Palma de Mallorca",1.350.000€,4 hab.,422 m²,False
+"Dúplex en calle de Georges Bernanos, s/n, El Terreno, Palma de Mallorca",450.000€,3 hab.,100 m²,True
+"Piso en calle de la Reina Cristina, Plaça de Toros, Palma de Mallorca",359.000€,3 hab.,131 m²,True
+"Piso en calle del Baró de Pinopar, 14, La Missio - Mercat, Palma de Mallorca",895.000€,3 hab.,135 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",180.000€,1 hab.,36 m²,False
+"Piso en miquel de forteza i pinya, Coll d'En Rabassa, Palma de Mallorca",340.000€,3 hab.,108 m²,True
+"Piso en calle del Baró de Pinopar, 14, La Missio - Mercat, Palma de Mallorca",895.000€,3 hab.,135 m²,True
+"Piso en calle del Baró de Pinopar, 14, La Missio - Mercat, Palma de Mallorca",895.000€,3 hab.,135 m²,True
+"Ático en calle Cases De Son Ametler, 30, El Vivero, Palma de Mallorca",253.000€,3 hab.,130 m²,True
+"Piso en calle Valparaíso, Nou Llevant, Palma de Mallorca",269.000€,3 hab.,83 m²,True
+"Chalet adosado en calle de la Camamilla, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",349.000€,2 hab.,74 m²,False
+"Piso en calle de l'Ermità, Sant Jaume, Palma de Mallorca",299.900€,1 hab.,56 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",498.000€,2 hab.,97 m²,True
+"Piso en calle de Vicenç Joan i Rosselló, 24, Son Dameto, Palma de Mallorca",249.000€,2 hab.,93 m²,True
+"Piso en calle Ciutat de Querétaro, Nou Llevant, Palma de Mallorca",314.000€,4 hab.,105 m²,True
+"Piso en Illes Pitiüses, Coll d'En Rabassa, Palma de Mallorca",199.000€,3 hab.,87 m²,True
+"Finca rústica en camino 8408- son ferriol, Cort, Palma de Mallorca",999.950€,7 hab.,499 m²,False
+"Piso en Jeroni Alemany, Son Cotoner, Palma de Mallorca",239.000€,3 hab.,100 m²,True
+"Piso en Monti-Sión, Palma de Mallorca",1.955.000€,3 hab.,226 m²,True
+"Chalet en El Vivero, Palma de Mallorca",800.000€,6 hab.,307 m²,False
+"Dúplex en Sant Nicolau, Palma de Mallorca",1.790.000€,4 hab.,250 m²,True
+"Chalet en Genova, Palma de Mallorca",2.700.000€,4 hab.,362 m²,False
+"Piso en Monti-Sión, Palma de Mallorca",1.955.000€,3 hab.,226 m²,True
+"Dúplex en Sant Nicolau, Palma de Mallorca",1.790.000€,4 hab.,250 m²,True
+"Piso en Son Armadams, Palma de Mallorca",459.000€,3 hab.,130 m²,True
+"Piso en Cort, Palma de Mallorca",830.000€,2 hab.,142 m²,True
+"Chalet en Genova, Palma de Mallorca",2.700.000€,4 hab.,362 m²,False
+"Piso en calle del Pare Guillem Caselles, Coll d'En Rabassa, Palma de Mallorca",350.000€,3 hab.,146 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",395.000€,2 hab.,100 m²,True
+"Casa o chalet independiente en Secar de la Real, Palma de Mallorca",1.195.000€,4 hab.,320 m²,False
+"Casa o chalet independiente en calle de Bartomeu Calatayud, 28, Son Cladera - Son Fuster, Palma de Mallorca",345.000€,5 hab.,174 m²,False
+"Dúplex en calle Portella, Monti-Sión, Palma de Mallorca",1.775.000€,2 hab.,212 m²,True
+"Piso en calle de Margaluz, Sant Agustí, Palma de Mallorca",895.000€,2 hab.,85 m²,True
+"Casa o chalet independiente en Son Xigala, Palma de Mallorca",1.390.000€,4 hab.,412 m²,False
+"Piso en Ma-1C, Sant Agustí, Palma de Mallorca",2.195.000€,3 hab.,141 m²,True
+"Piso en calle Barcarola, 1, 3, Cas Capiscol, Palma de Mallorca",311.000€,2 hab.,85 m²,True
+"Dúplex en calle Portella, Monti-Sión, Palma de Mallorca",1.260.000€,2 hab.,169 m²,True
+"Ático en calle Barcarola, 1, 3, Cas Capiscol, Palma de Mallorca",358.000€,2 hab.,81 m²,True
+"Piso en calle Barcarola, 1, 3, Cas Capiscol, Palma de Mallorca",293.000€,3 hab.,90 m²,True
+"Dúplex en calle Portella, Monti-Sión, Palma de Mallorca",1.235.000€,2 hab.,144 m²,True
+"Piso en calle del Pare Isla, 25, La Soledat, Palma de Mallorca",199.000€,3 hab.,97 m²,True
+"Ático en Casco antiguo, 1, Cort, Palma de Mallorca",1.395.000€,2 hab.,120 m²,True
+"Piso en plaza Economo Parera, El Terreno, Palma de Mallorca",2.500.000€,3 hab.,225 m²,True
+"Piso en Ses Cadenes-Arenal, Palma de Mallorca",695.000€,3 hab.,120 m²,True
+"Casa o chalet independiente en calle de Robert Graves, El Terreno, Palma de Mallorca",3.450.000€,4 hab.,515 m²,False
+"Piso en calle Pere de Fraga, Sant Jaume, Palma de Mallorca",420.000€,2 hab.,96 m²,True
+"Chalet adosado en calle del Barranc, Genova, Palma de Mallorca",1.300.000€,3 hab.,264 m²,False
+"Casa o chalet independiente en Cala Major, Palma de Mallorca",2.500.000€,1 hab.,728 m²,False
+"Piso en Jeroni Antich, La Missio - Mercat, Palma de Mallorca",475.000€,4 hab.,141 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",1.275.000€,4 hab.,400 m²,False
+"Piso en avenida de Joan Miró, El Terreno, Palma de Mallorca",695.000€,2 hab.,100 m²,True
+"Ático en Quartereta, Sindicat, Palma de Mallorca",199.000€,2 hab.,45 m²,True
+"Piso en calle de l'Estanc, La Llotja, Palma de Mallorca",875.000€,3 hab.,252 m²,True
+"Piso en Jeroni Antich, La Missio - Mercat, Palma de Mallorca",475.000€,4 hab.,141 m²,True
+"Piso en l'armador velenti, El Vivero, Palma de Mallorca",255.000€,3 hab.,94 m²,True
+"Casa o chalet independiente en Sa Indiotería - Son Castelló, Palma de Mallorca",993.000€,5 hab.,207 m²,False
+"Casa o chalet independiente en calle de la Barrera, Son Espanyolet, Palma de Mallorca",690.000€,5 hab.,310 m²,False
+"Piso en calle del Marquès de la Fontsanta, Marqués de la Fontsanta, Palma de Mallorca",585.000€,3 hab.,120 m²,True
+"Piso en calle de l'Arxiduc Lluís Salvador, Plaça de Toros, Palma de Mallorca",570.000€,3 hab.,164 m²,True
+"Piso en calle del Passerell, Son Xigala, Palma de Mallorca",960.000€,4 hab.,176 m²,True
+"Piso en calle de Josep Darder Metge, Son Canals, Palma de Mallorca",357.000€,4 hab.,157 m²,True
+"Piso en calle d'Onofre Jaume, Can Capes, Palma de Mallorca",310.000€,2 hab.,98 m²,True
+"Casa o chalet independiente en calle del Vicari Joaquim Fuster, Portixol-Molinar, Palma de Mallorca",2.800.000€,9 hab.,264 m²,False
+"Piso en calle de la Llibertat, Sta Catalina - El Jonquet, Palma de Mallorca",299.000€,2 hab.,60 m²,True
+"Piso en calle de Murillo, Sta Catalina - El Jonquet, Palma de Mallorca",690.000€,4 hab.,162 m²,True
+"Piso en calle de Ramon Berenguer III, Bons Aires, Palma de Mallorca",495.000€,3 hab.,162 m²,True
+"Ático en camino de son moix, Zona Colegios - Son Moix, Palma de Mallorca",385.000€,2 hab.,115 m²,True
+"Chalet pareado en calle de la Sípia, Can Pastilla, Palma de Mallorca",825.000€,4 hab.,289 m²,False
+"Casa o chalet independiente en calle Estepa Blanca, Puntiró, Palma de Mallorca",1.060.000€,5 hab.,323 m²,False
+"Piso en avenida de Jaume III, Sant Jaume, Palma de Mallorca",875.000€,3 hab.,199 m²,True
+"Piso en calle de Fra Juníper Serra, Son Armadams, Palma de Mallorca",700.000€,4 hab.,135 m²,True
+"Ático en l,illa de corfu, Coll d'En Rabassa, Palma de Mallorca",620.000€,3 hab.,192 m²,True
+"Ático en calle de Santiago Rusiñol, La Missio - Mercat, Palma de Mallorca",639.000€,3 hab.,174 m²,True
+"Piso en Unio, Sant Jaume, Palma de Mallorca",1.376.000€,2 hab.,135 m²,True
+"Piso en Portixol-Molinar, Palma de Mallorca",550.000€,2 hab.,150 m²,True
+"Chalet pareado en Sipia, 38, Can Pastilla, Palma de Mallorca",825.000€,4 hab.,289 m²,False
+"Piso en Joan Crespí, 10, Sta Catalina - El Jonquet, Palma de Mallorca",420.000€,4 hab.,145 m²,True
+"Piso en calle d'Aragó, El Vivero, Palma de Mallorca",275.000€,3 hab.,101 m²,True
+"Piso en calle de Llucmajor, 47, Portixol-Molinar, Palma de Mallorca",550.000€,2 hab.,97 m²,True
+"Ático en avenida de Mexico, 5, Nou Llevant, Palma de Mallorca",840.000€,3 hab.,130 m²,True
+"Piso en Plaça de Toros, Palma de Mallorca",289.000€,3 hab.,74 m²,True
+"Casa o chalet independiente en Sant Jaume, Palma de Mallorca",1.050.000€,4 hab.,280 m²,False
+"Ático en calle Gabriel Miró, 8, El Forti, Palma de Mallorca",649.000€,3 hab.,140 m²,True
+"Chalet pareado en Son Llull, s/n, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",455.000€,4 hab.,220 m²,False
+"Ático en Pascual Ribot, Camp d'En Serralta , Palma de Mallorca",250.000€,2 hab.,86 m²,True
+"Ático en camino Salard, s/n, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",145.000€,3 hab.,75 m²,True
+"Piso en amilcar, 15, Ses Cadenes-Arenal, Palma de Mallorca",175.000€,2 hab.,70 m²,True
+"Piso en calle de Juan Gris, 57, Son Cotoner, Palma de Mallorca",437.000€,3 hab.,161 m²,True
+"Piso en Pere Garau, Palma de Mallorca",173.000€,3 hab.,80 m²,True
+"Casa o chalet independiente en Urb bella vista, s/n, Ses Cadenes-Arenal, Palma de Mallorca",940.000€,5 hab.,328 m²,False
+"Dúplex en Antonio Gaudi, Son Dameto, Palma de Mallorca",270.000€,3 hab.,102 m²,True
+"Piso en Son Cotoner, Son Cotoner, Palma de Mallorca",240.000€,2 hab.,85 m²,True
+"Casa o chalet independiente en Diseminado 4225- Establiments, s/n, Establiments - Son Sardina, Palma de Mallorca",1.100.000€,4 hab.,190 m²,False
+"Piso en Passatge de la Prosperitat, s/n, Rafal Vell, Palma de Mallorca",179.000€,3 hab.,83 m²,True
+"Casa o chalet independiente en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",5.800.000€,4 hab.,618 m²,False
+"Chalet en calle del Puig de Pollença, La Bonanova - Porto Pi, Palma de Mallorca",1.330.000€,5 hab.,167 m²,False
+"Piso en calle Ma-1C, Sant Agustí, Palma de Mallorca",1.850.000€,2 hab.,136 m²,True
+"Finca rústica en camino de Muntanya, S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.950.000€,5 hab.,483 m²,False
+"Piso en avenida de Joan Miró, La Bonanova - Porto Pi, Palma de Mallorca",990.000€,3 hab.,160 m²,True
+"Casa o chalet independiente en calle del Falcó, Genova, Palma de Mallorca",4.900.000€,4 hab.,600 m²,False
+"Piso en calle de Son Puig, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",340.000€,1 hab.,51 m²,True
+"Casa o chalet independiente en calle del Puig de Pollença, La Bonanova - Porto Pi, Palma de Mallorca",5.800.000€,4 hab.,551 m²,False
+"Piso en calle de Sant Magí, 22, Sta Catalina - El Jonquet, Palma de Mallorca",395.000€,2 hab.,96 m²,True
+"Finca rústica en Diseminado 8434- Son Ferriol, Son Ferriol, Palma de Mallorca",385.000€,4 hab.,257 m²,False
+"Piso en calle d'Escòcia, Sant Agustí, Palma de Mallorca",950.000€,4 hab.,120 m²,True
+"Ático en calle de Joan Mascaró i Fornés, Secar de la Real, Palma de Mallorca",495.000€,3 hab.,97 m²,True
+"Piso en Son Ferriol, Palma de Mallorca",274.000€,2 hab.,87 m²,True
+"Piso en calle d'Avinyó, Son Armadams, Palma de Mallorca",650.000€,2 hab.,77 m²,True
+"Ático en calle de Castellitx, Son Gual, Palma de Mallorca",535.000€,3 hab.,210 m²,True
+"Piso en calle de Versalles, La Bonanova - Porto Pi, Palma de Mallorca",1.575.000€,4 hab.,320 m²,True
+"Casa o chalet independiente en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",5.800.000€,4 hab.,551 m²,False
+"Piso en avenida de Sant Ferran, Son Dameto, Palma de Mallorca",260.000€,3 hab.,113 m²,True
+"Piso en Son Ferriol, Palma de Mallorca",274.000€,2 hab.,87 m²,True
+"Piso en avenida de Joan Miró, La Bonanova - Porto Pi, Palma de Mallorca",990.000€,3 hab.,160 m²,True
+"Piso en calle de Sant Magí, 22, Sta Catalina - El Jonquet, Palma de Mallorca",395.000€,2 hab.,96 m²,True
+"Finca rústica en camino de Muntanya, S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.950.000€,5 hab.,483 m²,False
+"Chalet pareado en Dos de mayo, El Terreno, Palma de Mallorca",1.725.000€,6 hab.,236 m²,False
+"Finca rústica en Diseminado Can 8729- Sa Casa Blanca, 10, Sa Casa Blanca, Palma de Mallorca",2.500.000€,9 hab.,1.900 m²,False
+"Chalet en Son Vida, Palma de Mallorca",6.900.000€,5 hab.,1.061 m²,False
+"Piso en calle de Can Savellà, Cort, Palma de Mallorca",299.000€,1 hab.,75 m²,True
+"Piso en riera miguel angel, Plaça de Toros, Palma de Mallorca",317.000€,4 hab.,130 m²,True
+"Piso en oms, La Missio - Mercat, Palma de Mallorca",280.000€,3 hab.,95 m²,True
+"Piso en pere dezcallar i net, La Missio - Mercat, Palma de Mallorca",365.000€,2 hab.,95 m²,True
+"Piso en calle Joan Crespi, 45, Son Espanyolet, Palma de Mallorca",989.000€,2 hab.,111 m²,True
+"Piso en Costa de Santa Creu, La Llotja, Palma de Mallorca",435.000€,3 hab.,127 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",299.000€,2 hab.,58 m²,True
+"Piso en calle Joan Crespi, 45, Son Espanyolet, Palma de Mallorca",499.000€,1 hab.,73 m²,True
+"Casa o chalet independiente en Ma-3011, s/n, Puntiró, Palma de Mallorca",3.500.000€,4 hab.,350 m²,False
+"Chalet adosado en calle de Triana, Son Espanyolet, Palma de Mallorca",2.200.000€,3 hab.,218 m²,False
+"Finca rústica en bellavista, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",990.000€,16 hab.,590 m²,False
+"Dúplex en calle Campana, 2, Cort, Palma de Mallorca",3.445.000€,4 hab.,375 m²,True
+"Piso en calle de Jaume de Santacília, Sant Jaume, Palma de Mallorca",425.000€,2 hab.,78 m²,True
+"Casa o chalet independiente en calle de Josep Ventayol, Son Rapinya - Los Almendros, Palma de Mallorca",980.000€,6 hab.,321 m²,False
+"Piso en calle Joan Crespi, 45, Son Espanyolet, Palma de Mallorca",1.349.000€,3 hab.,152 m²,True
+"Casa o chalet independiente en calle del Calamar, Can Pastilla, Palma de Mallorca",1.500.000€,4 hab.,548 m²,False
+"Ático en La Missio - Mercat, Palma de Mallorca",495.000€,1 hab.,76 m²,True
+"Piso en calle de Jeroni de Berard, 17, Plaça de Toros, Palma de Mallorca",210.000€,2 hab.,63 m²,True
+"Piso en calle san lluc, 9, Sa Indiotería - Son Castelló, Palma de Mallorca",360.000€,3 hab.,120 m²,True
+"Casa o chalet independiente en calle D, Ses Cadenes-Arenal, Palma de Mallorca",370.000€,3 hab.,150 m²,False
+"Piso en calle de Llucmajor, Portixol-Molinar, Palma de Mallorca",750.000€,3 hab.,120 m²,True
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",266.000€,3 hab.,93 m²,True
+"Chalet en calle de Pomar, Establiments - Son Sardina, Palma de Mallorca",1.260.000€,4 hab.,1.283 m²,False
+"Casa o chalet independiente en calle dels xeremiers, Secar de la Real, Palma de Mallorca",1.460.000€,4 hab.,418 m²,False
+"Piso en calle de Sant Sebastià, La Seu, Palma de Mallorca",1.395.000€,2 hab.,145 m²,True
+"Piso en Pare Cerda, Son Dureta, Palma de Mallorca",490.000€,3 hab.,104 m²,True
+"Chalet adosado en Secar de la Real, Palma de Mallorca",540.000€,3 hab.,157 m²,False
+"Piso en pasaje Guillem de Torella, La Missio - Mercat, Palma de Mallorca",785.000€,4 hab.,329 m²,True
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",266.000€,3 hab.,93 m²,True
+"Piso en calle de Llucmajor, Portixol-Molinar, Palma de Mallorca",750.000€,3 hab.,120 m²,True
+"Ático en calle de Can Pont i Vic, Monti-Sión, Palma de Mallorca",1.195.000€,4 hab.,143 m²,True
+"Piso en S'Aranjassa - Es Pil.larí, Palma de Mallorca",259.000€,3 hab.,95 m²,True
+"Piso en calle dels Sobreposats, Sta Catalina - El Jonquet, Palma de Mallorca",580.000€,4 hab.,140 m²,True
+"Piso en calle del Marquès de la Sènia, Paseo Marítimo, Palma de Mallorca",950.000€,4 hab.,247 m²,True
+"Piso en Olmos, La Missio - Mercat, Palma de Mallorca",570.000€,2 hab.,100 m²,True
+"Piso en Camp Redo, Palma de Mallorca",299.900€,4 hab.,142 m²,True
+"Chalet en calle de Pomar, Establiments - Son Sardina, Palma de Mallorca",1.260.000€,4 hab.,1.283 m²,False
+"Piso en calle Nunó Sanç, Hostalets - Son Fortesa Sud, Palma de Mallorca",350.000€,2 hab.,156 m²,True
+"Piso en calle d'Anníbal, Sta Catalina - El Jonquet, Palma de Mallorca",400.000€,2 hab.,54 m²,True
+"Dúplex en calle de la Pietat, Sant Jaume, Palma de Mallorca",850.000€,3 hab.,170 m²,True
+"Dúplex en calle de Vista Alegre, La Bonanova - Porto Pi, Palma de Mallorca",1.475.000€,4 hab.,190 m²,True
+"Piso en VI, 16, Cort, Palma de Mallorca",365.000€,1 hab.,87 m²,True
+"Piso en avenida de Gabriel Roca, 44, La Bonanova - Porto Pi, Palma de Mallorca",369.000€,2 hab.,80 m²,True
+"Dúplex en calle de la Portella, Monti-Sión, Palma de Mallorca",1.775.000€,2 hab.,212 m²,True
+"Casa o chalet independiente en Son Ximelis, s/n, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.680.000€,6 hab.,197 m²,False
+"Dúplex en calle de la Portella, Monti-Sión, Palma de Mallorca",1.235.000€,2 hab.,144 m²,True
+"Chalet adosado en calle de Sant Miquel, Sindicat, Palma de Mallorca",5.450.000€,10 hab.,480 m²,False
+"Piso en avenida de Gabriel Roca, Paseo Marítimo, Palma de Mallorca",1.000.000€,2 hab.,150 m²,True
+"Ático en Fra Juniper Serra, Son Armadams, Palma de Mallorca",1.100.000€,4 hab.,180 m²,True
+"Piso en Unió, 1, Sant Jaume, Palma de Mallorca",1.376.000€,2 hab.,135 m²,True
+"Piso en calle Puerto Rico, 9, Nou Llevant, Palma de Mallorca",410.000€,3 hab.,146 m²,True
+"Ático en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",1.650.000€,3 hab.,300 m²,True
+"Piso en calle Puerto Rico, 9, Nou Llevant, Palma de Mallorca",355.000€,3 hab.,120 m²,True
+"Dúplex en calle de Vista Alegre, La Bonanova - Porto Pi, Palma de Mallorca",1.475.000€,4 hab.,190 m²,True
+"Dúplex en calle de la Portella, Monti-Sión, Palma de Mallorca",1.775.000€,2 hab.,212 m²,True
+"Piso en Unió, 1, Sant Jaume, Palma de Mallorca",1.376.000€,2 hab.,135 m²,True
+"Piso en calle Gaspar Bennazar, Plaça de Toros, Palma de Mallorca",429.500€,3 hab.,110 m²,True
+"Ático en calle de Francesc Vidal i Sureda, La Bonanova - Porto Pi, Palma de Mallorca",1.650.000€,3 hab.,300 m²,True
+"Casa o chalet independiente en Son Ximelis, s/n, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",1.680.000€,6 hab.,197 m²,False
+"Chalet adosado en calle de Sant Miquel, Sindicat, Palma de Mallorca",5.450.000€,10 hab.,480 m²,False
+"Piso en calle Puerto Rico, 9, Nou Llevant, Palma de Mallorca",355.000€,3 hab.,120 m²,True
+"Ático en calle del Capità Vila, Pere Garau, Palma de Mallorca",215.000€,2 hab.,54 m²,True
+"Piso en calle de les Cases de Son Ametler, El Vivero, Palma de Mallorca",220.000€,3 hab.,106 m²,True
+"Casa o chalet independiente en calle de Can Sanç, Cort, Palma de Mallorca",1.290.000€,3 hab.,211 m²,False
+"Piso en La Soledat, Palma de Mallorca",330.000€,1 hab.,100 m²,True
+"Casa o chalet independiente en calle de Contestí, Son Espanyolet, Palma de Mallorca",350.000€,1 hab.,70 m²,False
+"Casa o chalet independiente en Avisador, 32, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",674.000€,6 hab.,331 m²,False
+"Piso en calle de Segura, Portixol-Molinar, Palma de Mallorca",350.000€,2 hab.,71 m²,True
+"Piso en 31 desembre, Bons Aires, Palma de Mallorca",249.000€,3 hab.,102 m²,True
+"Piso en calle del Músic Alonso, El Vivero, Palma de Mallorca",410.000€,3 hab.,180 m²,False
+"Piso en La Calatrava, Palma de Mallorca",1.775.000€,2 hab.,212 m²,False
+"Piso en Monti-Sión, Palma de Mallorca",1.235.000€,2 hab.,144 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",2.200.000€,2 hab.,160 m²,True
+"Piso en calle Joaquim Maria Bover, Marqués de la Fontsanta, Palma de Mallorca",380.000€,3 hab.,123 m²,True
+"Piso en La Calatrava, Palma de Mallorca",1.235.000€,2 hab.,144 m²,False
+"Ático en Sant Nicolau, Palma de Mallorca",2.300.000€,2 hab.,204 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",400.000€,2 hab.,81 m²,False
+"Piso en calle Manacor, Foners, Palma de Mallorca",210.000€,2 hab.,83 m²,True
+"Piso en calle de Francesc Frontera, Coll d'En Rabassa, Palma de Mallorca",259.000€,3 hab.,87 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",2.495.000€,3 hab.,196 m²,False
+"Ático en calle de Pilar Juncosa, Son Armadams, Palma de Mallorca",1.750.000€,6 hab.,280 m²,True
+"Piso en Monti-Sión, Palma de Mallorca",1.775.000€,2 hab.,212 m²,True
+"Piso en Sindicat, Palma de Mallorca",1.500.000€,3 hab.,196 m²,True
+"Ático en Son Espanyolet, Palma de Mallorca",2.399.000€,2 hab.,235 m²,True
+"Piso en calle Joaquim Maria Bover, Marqués de la Fontsanta, Palma de Mallorca",380.000€,3 hab.,123 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",2.200.000€,2 hab.,160 m²,True
+"Piso en Monti-Sión, Palma de Mallorca",1.840.000€,2 hab.,215 m²,True
+"Piso en Monti-Sión, Palma de Mallorca",1.775.000€,2 hab.,212 m²,True
+"Piso en La Calatrava, Palma de Mallorca",1.995.000€,3 hab.,226 m²,True
+"Piso en Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",400.000€,2 hab.,90 m²,True
+"Piso en La Calatrava, Palma de Mallorca",1.775.000€,2 hab.,212 m²,False
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",2.495.000€,3 hab.,196 m²,False
+"Piso en Son Espanyolet, Palma de Mallorca",1.349.000€,3 hab.,152 m²,True
+"Chalet en El Terreno, Palma de Mallorca",1.690.000€,3 hab.,204 m²,False
+"Piso en Sindicat, Palma de Mallorca",1.500.000€,3 hab.,196 m²,True
+"Chalet en Sta Catalina - El Jonquet, Palma de Mallorca",645.000€,4 hab.,210 m²,False
+"Ático en Sant Agustí, Palma de Mallorca",2.750.000€,4 hab.,250 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",400.000€,2 hab.,81 m²,False
+"Piso en avenida de Gabriel Roca, La Bonanova - Porto Pi, Palma de Mallorca",369.900€,2 hab.,71 m²,True
+"Piso en Sant Agustí, Palma de Mallorca",1.220.000€,4 hab.,220 m²,True
+"Ático en de despuig, Sta Catalina - El Jonquet, Palma de Mallorca",699.000€,4 hab.,178 m²,True
+"Piso en plaza mayor, Sant Nicolau, Palma de Mallorca",275.000€,3 hab.,67 m²,True
+"Piso en Son Espanyolet, Palma de Mallorca",499.000€,1 hab.,73 m²,True
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",895.000€,2 hab.,180 m²,True
+"Piso en arquitecte bennassar, Plaça de Toros, Palma de Mallorca",365.000€,4 hab.,200 m²,True
+"Casa o chalet independiente en calle Bellavista-N, Ses Cadenes-Arenal, Palma de Mallorca",790.000€,4 hab.,436 m²,False
+"Piso en Sant Agustí, Palma de Mallorca",399.000€,2 hab.,110 m²,False
+"Ático en Bons Aires, Palma de Mallorca",556.762€,4 hab.,155 m²,True
+"Ático en joaquin verdaguer, Ses Cadenes-Arenal, Palma de Mallorca",367.500€,4 hab.,158 m²,True
+"Piso en calle Parcelles, Les Maravelles, Palma de Mallorca",222.000€,3 hab.,89 m²,True
+"Ático en calle de berenquer de tornamira, Sant Jaume, Palma de Mallorca",599.000€,3 hab.,130 m²,True
+"Chalet en Puntiró, Palma de Mallorca",975.000€,3 hab.,229 m²,False
+"Ático en Joaquín Verdaguer, Ses Cadenes-Arenal, Palma de Mallorca",360.000€,4 hab.,170 m²,True
+"Piso en calle Sant Llàtzer, Pere Garau, Palma de Mallorca",289.900€,3 hab.,100 m²,True
+"Casa o chalet independiente en calle Bellavista-N, Ses Cadenes-Arenal, Palma de Mallorca",790.000€,4 hab.,436 m²,False
+"Ático en Bons Aires, Palma de Mallorca",556.762€,4 hab.,155 m²,True
+"Chalet en Establiments - Son Sardina, Palma de Mallorca",3.250.000€,6 hab.,424 m²,False
+"Piso en La Missio - Mercat, Palma de Mallorca",960.000€,5 hab.,197 m²,False
+"Piso en Camp d'En Serralta , Palma de Mallorca",599.000€,3 hab.,165 m²,True
+"Ático en joaquin verdaguer, Ses Cadenes-Arenal, Palma de Mallorca",367.500€,4 hab.,158 m²,True
+"Piso en calle Cartago, Ses Cadenes-Arenal, Palma de Mallorca",588.550€,4 hab.,208 m²,True
+"Ático en Joaquín Verdaguer, Ses Cadenes-Arenal, Palma de Mallorca",360.000€,4 hab.,170 m²,True
+"Ático en calle de berenquer de tornamira, Sant Jaume, Palma de Mallorca",599.000€,3 hab.,130 m²,True
+"Chalet en El Terreno, Palma de Mallorca",3.200.000€,5 hab.,450 m²,False
+"Piso en Sant Jaume, Palma de Mallorca",875.000€,4 hab.,193 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",720.000€,3 hab.,198 m²,True
+"Piso en calle Uetam, s/n, Pere Garau, Palma de Mallorca",544.500€,3 hab.,116 m²,True
+"Dúplex en El Terreno, Palma de Mallorca",450.000€,3 hab.,100 m²,True
+"Casa o chalet independiente en Passtemps, Establiments - Son Sardina, Palma de Mallorca",825.000€,3 hab.,290 m²,False
+"Piso en calle Uetam, s/n, Pere Garau, Palma de Mallorca",495.000€,3 hab.,126 m²,True
+"Piso en Secar de la Real, Palma de Mallorca",527.000€,3 hab.,200 m²,True
+"Piso en Plaça de Toros, Palma de Mallorca",379.000€,3 hab.,239 m²,True
+"Ático en Foners, Palma de Mallorca",1.200.000€,3 hab.,197 m²,True
+"Piso en Son Gual, Palma de Mallorca",590.000€,3 hab.,149 m²,True
+"Ático en Pere Garau, Palma de Mallorca",450.000€,3 hab.,95 m²,True
+"Ático en calle d'Anselm Turmeda, Bons Aires, Palma de Mallorca",1.850.000€,5 hab.,550 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",795.000€,4 hab.,161 m²,True
+"Piso en avenida Mexic 11 -, 13, Nou Llevant, Palma de Mallorca",995.000€,4 hab.,122 m²,True
+"Piso en Son Cladera - Son Fuster, Palma de Mallorca",299.000€,3 hab.,117 m²,True
+"Casa o chalet independiente en Son Espanyolet, Palma de Mallorca",1.285.000€,4 hab.,254 m²,False
+"Finca rústica en Son Ferriol, Palma de Mallorca",1.390.000€,4 hab.,700 m²,False
+"Piso en calle de Rossiñol, 2, Sta Catalina - El Jonquet, Palma de Mallorca",699.000€,4 hab.,206 m²,True
+"Piso en Marqués de la Fontsanta, Palma de Mallorca",299.000€,3 hab.,119 m²,True
+"Piso en Sta Catalina - El Jonquet, Palma de Mallorca",720.000€,3 hab.,198 m²,True
+"Casa o chalet independiente en Cort, Palma de Mallorca",490.000€,3 hab.,120 m²,False
+"Piso en Pere Garau, Palma de Mallorca",250.000€,3 hab.,100 m²,True
+"Casa o chalet independiente en Les Maravelles, Palma de Mallorca",790.000€,7 hab.,373 m²,False
+"Piso en calle Joan Maragall, 37, Portixol-Molinar, Palma de Mallorca",995.000€,4 hab.,231 m²,True
+"Piso en avenida Mexic 11 -, 13, Nou Llevant, Palma de Mallorca",995.000€,4 hab.,122 m²,True
+"Piso en Bons Aires, Palma de Mallorca",649.900€,3 hab.,178 m²,True
+"Piso en La Missio - Mercat, Palma de Mallorca",795.000€,4 hab.,161 m²,True
+"Piso en avenida Mexic 11 -, 13, Nou Llevant, Palma de Mallorca",2.550.000€,2 hab.,216 m²,True
+"Finca rústica en Son Ferriol, Palma de Mallorca",1.390.000€,4 hab.,700 m²,False
+"Casa o chalet independiente en calle de Binifaldó, Son Vida, Palma de Mallorca",6.900.000€,5 hab.,834 m²,False
+"Casa o chalet independiente en Ses Cadenes-Arenal, Palma de Mallorca",830.000€,4 hab.,436 m²,False
+"Piso en calle Gaspar Bennazar, Plaça de Toros, Palma de Mallorca",406.000€,3 hab.,96 m²,True
+"Piso en Camp Redo, Palma de Mallorca",280.000€,4 hab.,117 m²,True
+"Piso en calle Sureda y calle Regal de Palma, s/n, La Soledat, Palma de Mallorca",405.000€,3 hab.,125 m²,True
+"Piso en Vi, La Llotja, Palma de Mallorca",255.000€,1 hab.,47 m²,True
+"Piso en calle Sureda y calle Regal de Palma, s/n, La Soledat, Palma de Mallorca",355.000€,2 hab.,77 m²,True
+"Piso en carretera Arenal, Ses Cadenes-Arenal, Palma de Mallorca",424.000€,2 hab.,160 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",590.000€,4 hab.,257 m²,False
+"Piso en avenida d'Alexandre Rosselló, La Missio - Mercat, Palma de Mallorca",745.000€,3 hab.,160 m²,True
+"Piso en calle Castillejos, Coll d'En Rabassa, Palma de Mallorca",249.000€,2 hab.,62 m²,True
+"Piso en calle del Puig de Pollença, La Bonanova - Porto Pi, Palma de Mallorca",1.499.900€,3 hab.,146 m²,True
+"Casa o chalet independiente en Establiments - Son Sardina, Palma de Mallorca",915.000€,5 hab.,354 m²,False
+"Piso en Son Armadams, Palma de Mallorca",680.000€,3 hab.,142 m²,True
+"Piso en avenida de Jaume III, Sant Jaume, Palma de Mallorca",615.000€,3 hab.,93 m²,True
+"Dúplex en calle délionor servera, 10, La Bonanova - Porto Pi, Palma de Mallorca",1.980.000€,2 hab.,187 m²,True
+"Piso en calle de Salvà, Camp d'En Serralta , Palma de Mallorca",299.000€,4 hab.,97 m²,True
+"Piso en joan miro, 172, La Bonanova - Porto Pi, Palma de Mallorca",210.000€,1 hab.,42 m²,True
+"Piso en Porto Pi, La Bonanova - Porto Pi, Palma de Mallorca",560.000€,3 hab.,85 m²,True
+"Piso en avenida de Gabriel Roca, La Bonanova - Porto Pi, Palma de Mallorca",325.000€,2 hab.,60 m²,True
+"Piso en via Sindicato, La Missio - Mercat, Palma de Mallorca",740.000€,7 hab.,221 m²,True
+"Piso en calle del Busqueret, Son Xigala, Palma de Mallorca",212.000€,3 hab.,93 m²,False
+"Casa o chalet independiente en calle son Nadalet, La Soledat, Palma de Mallorca",455.000€,3 hab.,170 m²,False
+"Piso en calle del Bisbe Maura, Marqués de la Fontsanta, Palma de Mallorca",320.000€,3 hab.,115 m²,True
+"Piso en calle Eusebi Estada, Arxiduc, Palma de Mallorca",398.000€,3 hab.,120 m²,True
+"Piso en Son Ferriol, Palma de Mallorca",2.650.000€,3 hab.,280 m²,True
+"Casa o chalet independiente en Son Dureta, Son Dureta, Palma de Mallorca",3.200.000€,5 hab.,550 m²,False
+"Piso en plaza de Cort, Cort, Palma de Mallorca",695.000€,2 hab.,135 m²,True
+"Piso en calle de Maria Ignàsia Cortes, Ses Cadenes-Arenal, Palma de Mallorca",390.000€,4 hab.,119 m²,True
+"Piso en La Llotja, Palma de Mallorca",595.000€,3 hab.,119 m²,True
+"Piso en joan miro, 172, La Bonanova - Porto Pi, Palma de Mallorca",210.000€,1 hab.,42 m²,True
+"Piso en calle de Francesc de Borja Moll, 20, La Missio - Mercat, Palma de Mallorca",740.000€,4 hab.,145 m²,True
+"Dúplex en calle délionor servera, 10, La Bonanova - Porto Pi, Palma de Mallorca",1.980.000€,2 hab.,187 m²,True
+"Piso en calle de l'Arxiduc Lluís Salvador, L'Olivera - Amanecer, Palma de Mallorca",339.000€,1 hab.,53 m²,True
+"Piso en calle noruega, 4, Sant Agustí, Palma de Mallorca",390.000€,3 hab.,120 m²,True
+"Piso en calle del Capità Vila, s/n, Pere Garau, Palma de Mallorca",399.000€,4 hab.,169 m²,True
+"Piso en calle de Salvà, Camp d'En Serralta , Palma de Mallorca",299.000€,4 hab.,97 m²,True
+"Casa o chalet independiente en calle del Sol, Monti-Sión, Palma de Mallorca",1.590.000€,3 hab.,325 m²,False
+"Piso en El Vivero, Palma de Mallorca",480.000€,4 hab.,261 m²,True
+"Piso en Porto Pi, La Bonanova - Porto Pi, Palma de Mallorca",560.000€,3 hab.,85 m²,True
+"Piso en calle de Niceto Alcalá Zamora, El Forti, Palma de Mallorca",375.000€,3 hab.,139 m²,True
+"Piso en calle d'Erwin Hubert, 6, Portixol-Molinar, Palma de Mallorca",335.000€,3 hab.,105 m²,True
+"Chalet en El Terreno, Palma de Mallorca",3.450.000€,3 hab.,356 m²,False
+"Ático en Franca, 4, El Terreno, Palma de Mallorca",580.000€,2 hab.,155 m²,True
+"Ático en Annibal, Sta Catalina - El Jonquet, Palma de Mallorca",950.000€,3 hab.,158 m²,True
+"Piso en calle dels fideus, s/n, Cort, Palma de Mallorca",550.000€,2 hab.,85 m²,True
+"Piso en avenida de Jaume III, 26, Sant Jaume, Palma de Mallorca",780.000€,3 hab.,163 m²,True
+"Piso en Foners, Palma de Mallorca",187.000€,3 hab.,80 m²,True
+"Piso en calle de Cotlliure, Camp Redo, Palma de Mallorca",203.128€,4 hab.,133 m²,True
+"Dúplex en Son Ferriol, Palma de Mallorca",320.000€,3 hab.,90 m²,True
+"Piso en calle d'Erwin Hubert, 6, Portixol-Molinar, Palma de Mallorca",335.000€,3 hab.,105 m²,True
+"Ático en Mestre perosi, 24, El Vivero, Palma de Mallorca",247.500€,3 hab.,160 m²,True
+"Ático en calle del reial patrimon, 2, El Terreno, Palma de Mallorca",690.000€,3 hab.,186 m²,True
+"Piso en Foners, Palma de Mallorca",187.000€,3 hab.,80 m²,True
+"Piso en calle de Bartomeu Xamena, 18, Les Maravelles, Palma de Mallorca",690.000€,4 hab.,160 m²,True
+"Piso en calle de Jaume Balmes, Plaça de Toros, Palma de Mallorca",357.000€,4 hab.,240 m²,True
+"Dúplex en Son Ferriol, Palma de Mallorca",320.000€,3 hab.,90 m²,True
+"Piso en avenida Nacional, Ses Cadenes-Arenal, Palma de Mallorca",480.000€,4 hab.,212 m²,True
+"Piso en calle de la Llibertat, Sta Catalina - El Jonquet, Palma de Mallorca",299.000€,2 hab.,78 m²,True
+"Piso en Son Espanyolet, Palma de Mallorca",299.000€,2 hab.,65 m²,True
+"Chalet en Sant Agustí, Palma de Mallorca",1.500.000€,5 hab.,375 m²,False
+"Finca rústica en Sa Casa Blanca, Palma de Mallorca",2.500.000€,6 hab.,1.969 m²,False
+"Chalet en Son Rapinya - Los Almendros, Palma de Mallorca",3.490.000€,8 hab.,730 m²,False
+"Ático en Bons Aires, Palma de Mallorca",1.850.000€,5 hab.,563 m²,False
+"Casa o chalet independiente en Genova, Palma de Mallorca",620.000€,2 hab.,120 m²,False
+"Chalet en Son Rapinya - Los Almendros, Palma de Mallorca",2.150.000€,6 hab.,543 m²,False
+"Piso en Plaça de Toros, Palma de Mallorca",369.000€,2 hab.,104 m²,True
+"Casa o chalet independiente en calle Illes Balears, La Teulera, Palma de Mallorca",720.000€,3 hab.,168 m²,False
+"Finca rústica en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",3.595.000€,9 hab.,720 m²,False
+"Chalet en S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.470.000€,4 hab.,434 m²,False
+"Piso en Sant Nicolau, Palma de Mallorca",3.400.000€,3 hab.,479 m²,False
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",5.750.000€,15 hab.,3.279 m²,False
+"Ático en La Missio - Mercat, Palma de Mallorca",690.000€,2 hab.,69 m²,True
+"Piso en Ses Cadenes-Arenal, Palma de Mallorca",390.000€,4 hab.,105 m²,True
+"Chalet en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",5.975.000€,11 hab.,1.243 m²,False
+"Chalet en Son Rapinya - Los Almendros, Palma de Mallorca",2.390.000€,8 hab.,730 m²,False
+"Chalet en Cort, Palma de Mallorca",1.290.000€,3 hab.,211 m²,False
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",1.200.000€,4 hab.,303 m²,True
+"Chalet en Monti-Sión, Palma de Mallorca",3.430.000€,15 hab.,1.000 m²,False
+"Chalet en Cort, Palma de Mallorca",5.450.000€,12 hab.,636 m²,False
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",1.590.000€,4 hab.,320 m²,False
+"Casa o chalet independiente en Les Maravelles, Palma de Mallorca",1.890.000€,5 hab.,324 m²,False
+"Chalet en Establiments - Son Sardina, Palma de Mallorca",4.000.000€,7 hab.,566 m²,False
+"Chalet en Cort, Palma de Mallorca",1.290.000€,3 hab.,211 m²,False
+"Chalet en Establiments - Son Sardina, Palma de Mallorca",733.000€,3 hab.,240 m²,False
+"Chalet en Sant Agustí, Palma de Mallorca",1.500.000€,5 hab.,375 m²,False
+"Piso en Son Armadams, Palma de Mallorca",680.000€,4 hab.,140 m²,True
+"Ático en Sta Catalina - El Jonquet, Palma de Mallorca",1.950.000€,4 hab.,210 m²,True
+"Piso en Son Espanyolet, Palma de Mallorca",299.000€,2 hab.,65 m²,True
+"Piso en La Bonanova - Porto Pi, Palma de Mallorca",1.200.000€,4 hab.,303 m²,True
+"Piso en Sant Jaume, Palma de Mallorca",1.560.000€,5 hab.,192 m²,True
+"Chalet en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",5.975.000€,11 hab.,1.243 m²,False
+"Chalet en Son Rapinya - Los Almendros, Palma de Mallorca",3.490.000€,8 hab.,730 m²,False
+"Ático en Bons Aires, Palma de Mallorca",1.850.000€,5 hab.,563 m²,False
+"Chalet en Monti-Sión, Palma de Mallorca",3.430.000€,15 hab.,1.000 m²,False
+"Piso en calle de la Llibertat, Sta Catalina - El Jonquet, Palma de Mallorca",299.000€,2 hab.,78 m²,True
+"Chalet en Genova, Palma de Mallorca",12.500.000€,10 hab.,1.680 m²,False
+"Piso en Plaça de Toros, Palma de Mallorca",369.000€,2 hab.,104 m²,True
+"Piso en Sant Nicolau, Palma de Mallorca",3.400.000€,3 hab.,479 m²,False
+"Ático en La Bonanova - Porto Pi, Palma de Mallorca",1.985.000€,2 hab.,212 m²,False
+"Ático en Zona Colegios - Son Moix, Palma de Mallorca",1.200.000€,4 hab.,233 m²,False
+"Finca rústica en Sa Casa Blanca, Palma de Mallorca",2.500.000€,6 hab.,1.969 m²,False
+"Chalet en Son Dureta, Palma de Mallorca",2.300.000€,4 hab.,490 m²,False
+"Chalet en Son Rapinya - Los Almendros, Palma de Mallorca",2.390.000€,8 hab.,730 m²,False
+"Piso en Portixol-Molinar, Palma de Mallorca",1.100.000€,3 hab.,120 m²,True
+"Ático en Sant Jaume, Palma de Mallorca",850.000€,3 hab.,196 m²,True
+"Ático en Portixol-Molinar, Palma de Mallorca",413.000€,2 hab.,155 m²,True
+"Casa o chalet independiente en calle Illes Balears, La Teulera, Palma de Mallorca",720.000€,3 hab.,168 m²,False
+"Chalet en Cort, Palma de Mallorca",5.450.000€,12 hab.,636 m²,False
+"Piso en Sindicat, Palma de Mallorca",575.000€,3 hab.,180 m²,False
+"Dúplex en La Llotja, Palma de Mallorca",3.400.000€,4 hab.,392 m²,True
+"Chalet en S'Aranjassa - Es Pil.larí, Palma de Mallorca",1.470.000€,4 hab.,434 m²,False
+"Chalet en Sant Agustí, Palma de Mallorca",1.500.000€,5 hab.,375 m²,False
+"Chalet en Establiments - Son Sardina, Palma de Mallorca",733.000€,3 hab.,240 m²,False
+"Piso en Ses Cadenes-Arenal, Palma de Mallorca",390.000€,4 hab.,105 m²,True
+"Ático en Bons Aires, Palma de Mallorca",1.850.000€,5 hab.,563 m²,False
+"Piso en Sant Agustí, Palma de Mallorca",950.000€,4 hab.,140 m²,True
+"Ático en Plaça de Toros, Palma de Mallorca",575.000€,4 hab.,144 m²,True
+"Casa o chalet independiente en La Bonanova - Porto Pi, Palma de Mallorca",1.950.000€,9 hab.,375 m²,False
+"Ático en La Missio - Mercat, Palma de Mallorca",2.400.000€,7 hab.,350 m²,True
+"Chalet adosado en Cala Major, Palma de Mallorca",430.000€,3 hab.,172 m²,False
+"Piso en Foners, Palma de Mallorca",255.000€,4 hab.,145 m²,True
+"Casa o chalet independiente en Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",580.000€,7 hab.,300 m²,False
+"Piso en av mexic, Nou Llevant, Palma de Mallorca",348.500€,2 hab.,88 m²,True
+"Piso en Son Dameto, Palma de Mallorca",315.000€,3 hab.,122 m²,True
+"Chalet adosado en Can Pastilla, Palma de Mallorca",325.000€,5 hab.,150 m²,False
+"Piso en Sant Jaume, Palma de Mallorca",1.980.000€,3 hab.,206 m²,True
+"Chalet en Monti-Sión, Palma de Mallorca",3.700.000€,7 hab.,621 m²,False
+"Piso en av mexic, Nou Llevant, Palma de Mallorca",386.500€,3 hab.,99 m²,True
+"Piso en Sindicat, Palma de Mallorca",580.000€,3 hab.,125 m²,True
+"Piso en Son Cotoner, Palma de Mallorca",319.900€,4 hab.,111 m²,True
+"Dúplex en La Missio - Mercat, Palma de Mallorca",875.000€,2 hab.,150 m²,True
+"Piso en calle d'Anníbal, Sta Catalina - El Jonquet, Palma de Mallorca",590.000€,2 hab.,65 m²,True
+"Piso en calle Aragón, 342, El Vivero, Palma de Mallorca",260.000€,3 hab.,140 m²,True
+"Piso en calle de Ramon y Cajal, Camp d'En Serralta , Palma de Mallorca",795.000€,3 hab.,130 m²,True
+"Ático en Can Pastilla, Coll d'En Rabassa, Palma de Mallorca",305.000€,3 hab.,114 m²,True
+"Casa o chalet independiente en Sant Jordi, Palma de Mallorca",1.650.000€,4 hab.,400 m²,False
+"Piso en calle Sant Vicenç Ferrer, La Soledat, Palma de Mallorca",180.000€,4 hab.,111 m²,True
+"Ático en La Llotja, Palma de Mallorca",1.790.000€,4 hab.,182 m²,True
+"Casa o chalet independiente en La Bonanova - Porto Pi, Palma de Mallorca",2.250.000€,6 hab.,585 m²,False
+"Casa o chalet independiente en Sant Jordi, Palma de Mallorca",1.650.000€,4 hab.,400 m²,False
+"Chalet pareado en Establiments - Son Sardina, Palma de Mallorca",1.500.000€,4 hab.,330 m²,False
+"Ático en La Missio - Mercat, Palma de Mallorca",710.000€,3 hab.,144 m²,True
+"Chalet adosado en Ses Cadenes-Arenal, Palma de Mallorca",1.150.000€,282 m²,NA,False
+"Piso en calle d'Anníbal, Sta Catalina - El Jonquet, Palma de Mallorca",590.000€,2 hab.,65 m²,True
+"Piso en calle de la Barrera de Baix, Sta Catalina - El Jonquet, Palma de Mallorca",395.000€,2 hab.,82 m²,True
+"Casa o chalet independiente en Son Ferriol, Palma de Mallorca",1.365.000€,6 hab.,400 m²,False
+"Piso en calle de Can Serinyà, Sant Jaume, Palma de Mallorca",1.150.000€,3 hab.,163 m²,True
+"Ático en Son Canals, Palma de Mallorca",229.000€,2 hab.,72 m²,True
+"Ático en La Llotja, Palma de Mallorca",1.790.000€,4 hab.,182 m²,True
+"Piso en calle de Ramon y Cajal, Camp d'En Serralta , Palma de Mallorca",795.000€,3 hab.,130 m²,True
+"Piso en calle Aragón, 342, El Vivero, Palma de Mallorca",260.000€,3 hab.,140 m²,True
+"Casa o chalet independiente en La Bonanova - Porto Pi, Palma de Mallorca",2.250.000€,6 hab.,585 m²,False
+"Casa o chalet independiente en calle Pinar-Park-D, Son Vida, Palma de Mallorca",3.150.000€,6 hab.,600 m²,False
+"Piso en calle de Saridakis, Cala Major, Palma de Mallorca",255.000€,1 hab.,60 m²,True
+"Casa o chalet independiente en Son Armadams, Palma de Mallorca",2.300.000€,4 hab.,565 m²,False
+"Piso en Cuba, Portixol-Molinar, Palma de Mallorca",305.000€,2 hab.,97 m²,True
+"Casa o chalet independiente en carretera Diseminado 4417- Son Sardina, 1, Establiments - Son Sardina, Palma de Mallorca",1.190.000€,7 hab.,500 m²,False
+"Piso en Fray Luis De Leon, Camp d'En Serralta , Palma de Mallorca",650.000€,3 hab.,150 m²,True
+"Piso en calle de l'Arxiduc Lluís Salvador, L'Olivera - Amanecer, Palma de Mallorca",375.000€,4 hab.,134 m²,True
+"Finca rústica en Son Ferriol, Palma de Mallorca",2.500.000€,5 hab.,500 m²,False
+"Piso en miquel porcel, Son Espanyolet, Palma de Mallorca",430.000€,3 hab.,150 m²,True
+"Casa o chalet independiente en Establiments - Son Sardina, Palma de Mallorca",2.400.000€,7 hab.,900 m²,False
+"Ático en Camp Redo, Palma de Mallorca",560.000€,4 hab.,209 m²,True
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",830.000€,3 hab.,450 m²,False
+"Piso en calle de Josep Maria Palau I Camps, Portixol-Molinar, Palma de Mallorca",799.000€,3 hab.,226 m²,False
+"Chalet pareado en Son Xigala, Palma de Mallorca",1.260.000€,4 hab.,207 m²,False
+"Casa o chalet independiente en calle Punxuat, Son Gual, Palma de Mallorca",2.200.000€,4 hab.,306 m²,False
+"Casa o chalet independiente en calle de Bellver, El Terreno, Palma de Mallorca",1.690.000€,3 hab.,252 m²,False
+"Chalet adosado en Zona Colegios - Son Moix, Palma de Mallorca",459.000€,4 hab.,166 m²,False
+"Piso en Niceto Alcala Zamora, 2, El Forti, Palma de Mallorca",295.000€,3 hab.,119 m²,True
+"Piso en calle de Miquel Pellisa, Les Maravelles, Palma de Mallorca",225.000€,1 hab.,53 m²,True
+"Piso en El Terreno, Palma de Mallorca",2.000.000€,4 hab.,425 m²,True
+"Piso en calle Llacuna de Sanabria, Son Rapinya - Los Almendros, Palma de Mallorca",225.000€,4 hab.,100 m²,True
+"Piso en calle de Bover, Camp d'En Serralta , Palma de Mallorca",260.000€,2 hab.,105 m²,True
+"Piso en plaza Sant Cosme, Son Cotoner, Palma de Mallorca",170.000€,3 hab.,70 m²,True
+"Piso en Paseo Marítimo, Palma de Mallorca",1.000.000€,2 hab.,150 m²,True
+"Casa o chalet independiente en Son Cladera - Son Fuster, Palma de Mallorca",675.000€,3 hab.,271 m²,False
+"Casa o chalet independiente en Son Rapinya - Los Almendros, Palma de Mallorca",2.390.000€,6 hab.,550 m²,False
+"Piso en Paseo Marítimo, Palma de Mallorca",1.575.000€,5 hab.,280 m²,True
+"Casa o chalet independiente en calle Pinar-Park-D, Son Vida, Palma de Mallorca",3.150.000€,6 hab.,600 m²,False
+"Piso en Cataluña, Camp d'En Serralta , Palma de Mallorca",720.000€,3 hab.,175 m²,True
+"Piso en rector petro, 36, Nou Llevant, Palma de Mallorca",207.500€,3 hab.,100 m²,True
+"Piso en camino de Son Gotleu, Son Gotleu, Palma de Mallorca",72.900€,2 hab.,55 m²,True
+"Casa o chalet independiente en Sant Agustí, Palma de Mallorca",1.000.000€,4 hab.,250 m²,False
+"Piso en calle d'Osca, Rafal Vell, Palma de Mallorca",179.000€,3 hab.,83 m²,True
+"Piso en Angels, Sant Jaume, Palma de Mallorca",450.000€,4 hab.,152 m²,True
+"Chalet pareado en plaza Pere Garau, s/n, Pere Garau, Palma de Mallorca",398.000€,5 hab.,280 m²,False
+"Ático en Camp Redo, Palma de Mallorca",560.000€,4 hab.,209 m²,True
+"Casa o chalet independiente en Son Dureta, Palma de Mallorca",1.155.000€,5 hab.,440 m²,False
+"Piso en Fray Luis De Leon, Camp d'En Serralta , Palma de Mallorca",650.000€,3 hab.,150 m²,True
+"Chalet adosado en Zona Colegios - Son Moix, Palma de Mallorca",459.000€,4 hab.,166 m²,False
+"Casa o chalet independiente en Establiments - Son Sardina, Palma de Mallorca",1.460.000€,4 hab.,418 m²,False
+"Casa o chalet independiente en carretera Diseminado 4417- Son Sardina, 1, Establiments - Son Sardina, Palma de Mallorca",1.190.000€,7 hab.,500 m²,False
+"Casa o chalet independiente en Son Armadams, Palma de Mallorca",2.300.000€,4 hab.,565 m²,False
+"Casa o chalet independiente en El Terreno, Palma de Mallorca",1.725.000€,6 hab.,234 m²,False
+"Finca rústica en Establiments - Son Sardina, Palma de Mallorca",830.000€,3 hab.,450 m²,False
+"Piso en calle de Miquel Porcel, Son Espanyolet, Palma de Mallorca",360.000€,3 hab.,80 m²,True
+"Casa o chalet independiente en Establiments - Son Sardina, Palma de Mallorca",2.400.000€,7 hab.,900 m²,False
+"Piso en calle de l'Arxiduc Lluís Salvador, L'Olivera - Amanecer, Palma de Mallorca",375.000€,4 hab.,134 m²,True
