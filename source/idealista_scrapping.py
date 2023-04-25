@@ -49,7 +49,9 @@ for i in range(1, 30):
     print(f"Procesando página {i}")
     # Navegar a la página
     driver.get(url_1.format(i))
-    # Esperar que la página se cargue
+    # Establecer un tiempo de espera para permitir la carga de la
+    # página y dar tiempo al usuario para resolver el CAPTCHA, si es
+    # necesario
     driver.implicitly_wait(100)
     # Obtener el contenido HTML de la página
     html = driver.page_source
